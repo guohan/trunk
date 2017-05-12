@@ -1,5 +1,4 @@
 # hadoop trunk
-本项目，大数据研究学习，积累所写，不定时更新。
 cdh_kafka kafka生产者，消费者示例
 cdh_sqoop sqoop
 flume apache flume
